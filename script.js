@@ -1,7 +1,7 @@
 // Modern Wedding Memory App - JavaScript Functionality
 class WeddingMemoryApp {
     constructor() {
-        this.apiBase = 'http://31.169.72.174/api';
+        this.apiBase = 'https://yeni7.onrender.com/api';
         this.memories = [];
         this.storyMemories = [];
         this.currentPage = 1;
